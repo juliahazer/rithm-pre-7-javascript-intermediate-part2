@@ -1,0 +1,38 @@
+body {
+	background-color: #3B4647;
+	color: white;
+	font-weight: lighter;
+}
+
+#giphy {
+	margin: 0 auto;
+	max-width: 600px;
+	text-align: center;
+}
+
+.field {
+	font-size: 20px;
+	border-radius: 5px;
+	padding: 10px;
+	border: none;
+}
+
+#searchBtn {
+	color: white;
+	background-color: black;
+	border: none;
+}
+
+#removeBtn {
+	color: white;
+	background-color: orange;
+	border: none;
+}
+
+#results {
+	margin-top: 20px;
+}
+
+img {
+	padding: 10px;
+}
